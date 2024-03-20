@@ -1,3 +1,4 @@
+import Affiliate from "./Affiliate";
 import Hero from "./Hero";
 import Integrations from "./Integrations";
 import Navbar from "./Navbar";
@@ -15,6 +16,7 @@ export default function Home() {
       <Integrations />
       <Platforms />
       <Pricing />
+      <Affiliate />
     </>
   );
 }

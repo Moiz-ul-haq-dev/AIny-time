@@ -9,21 +9,21 @@ export default function Platforms() {
           Twitter Ads, Pinterest Ads or any Display Advertising platform, our tool covers all your ad design needs effortlessly.</p>
         <h1 className='text-lg text-center font-semibold text-white mt-10'>Social Media Ads Sizes</h1>
         <h1 className='text-sm text-center text-white mt-5'>AInytime covers 100% of all size requirements for social media advertising.</h1>
-        <div className='flex gap-9 justify-center items-center mt-10'>
-          <img src='/images/post size.png' alt='post size' className='w-auto h-56' />
+        <div className='flex gap-8 justify-center items-center mt-10'>
+          <img src='/images/post size.png' alt='post size' className='w-48 h-56' />
           <img src='/images/landscape size.png' alt='landscape size' className='w-44 h-52' />
-          <img src='/images/story size.png' alt='story size' className='w-auto h-56' />
-          <img src='/images/vertical size.png' alt='vertical size' className='w-auto h-56' />
-          <img src='/images/pin size.png' alt='pin size' className='w-auto h-56' />
+          <img src='/images/story size.png' alt='story size' className='w-48 h-56' />
+          <img src='/images/vertical size.png' alt='vertical size' className='w-48 h-56' />
+          <img src='/images/pin size.png' alt='pin size' className='w-48 h-56' />
         </div>
         <h1 className='text-lg text-center font-semibold text-white mt-10'>Display & Programmatic Ads Sizes</h1>
         <h1 className='text-sm text-center text-white mt-5'>AInytime covers 95% of all size requirements for display advertising.</h1>
-        <div className='flex gap-8 justify-center items-center mt-10'>
+        <div className='flex gap-7 justify-center items-center mt-10'>
           <img src='/images/medium size.png' alt='post size' className='w-48 h-56' />
           <img src='/images/leader size.png' alt='landscape size' className='w-48 h-56' />
-          <img src='/images/wide size.png' alt='wide size' className='w-auto h-56' />
-          <img src='/images/vertical size.png' alt='vertical size' className='w-auto h-56' />
-          <img src='/images/pin size.png' alt='pin size' className='w-auto h-56' />
+          <img src='/images/wide size.png' alt='wide size' className='w-48 h-56' />
+          <img src='/images/vertical size.png' alt='vertical size' className='w-48 h-56' />
+          <img src='/images/pin size.png' alt='pin size' className='w-48 h-56' />
         </div>
         <div className='flex gap-5 justify-center mt-10'>
           <img src='/images/div.social-media-square.png' alt='social media square' className='w-16 h-16' />

@@ -31,37 +31,43 @@ export default function Hero() {
                     <div className='z-0 justify-start mx-auto lg:w-9/12 lg:h-auto rounded-2xl p-4 border-t border-b border-l border-r border-gray-400 bg-white'>
                         <h1 className="text-2xl ml-2 text-start font-semibold z-10 text-black">Select your post dimensions</h1>
                         <div className='w-full h-px bg-gray-300 my-2'></div>
-                        <div className="flex justify-between items-center w-full h-auto ml-2 mt-3 py-6 space-x-2">
-                            <img src="/images/Group 21681.png" alt="hero" className="w-auto h-auto" />
-                            <img src="/images/Group 21682.png" alt="hero" className="w-auto h-auto" />
-                            <img src="/images/Group 21683.png" alt="hero" className="w-auto h-auto" />
-                            <img src="/images/Group 21684.png" alt="hero" className="w-auto h-auto" />
-                            <img src="/images/Group 21685.png" alt="hero" className="w-auto h-auto" />
-                            <img src="/images/Group 21675.png" alt="hero" className="w-auto h-auto" />
-                            <img src="/images/Group 21676.png" alt="hero" className="w-auto h-auto" />
-                            <img src="/images/Group 21677.png" alt="hero" className="w-auto h-auto" />
-                            <img src="/images/Group 21679.png" alt="hero" className="w-auto h-auto" />
-                            <img src="/images/Group 21680.png" alt="hero" className="w-auto h-auto" />
+                        <div className="flex justify-center xl:justify-evenly items-center w-full h-auto ml-2 mt-3 py-6 space-x-2">
+                            <img src="/images/Group 21681.png" alt="hero" className="w-auto h-14" />
+                            <img src="/images/Group 21682.png" alt="hero" className="w-auto h-14" />
+                            <img src="/images/Group 21683.png" alt="hero" className="w-auto h-14" />
+                            <img src="/images/Group 21684.png" alt="hero" className="w-auto h-14" />
+                            <img src="/images/Group 21685.png" alt="hero" className="w-auto h-14" />
+                            <img src="/images/Group 21675.png" alt="hero" className="w-auto h-14" />
+                            <img src="/images/Group 21676.png" alt="hero" className="w-auto h-14" />
+                            <img src="/images/Group 21677.png" alt="hero" className="w-auto h-14" />
+                            <img src="/images/Group 21679.png" alt="hero" className="w-auto h-14" />
+                            <img src="/images/Group 21680.png" alt="hero" className="w-auto h-14" />
                             {/* <img src="/images/Group 21697.png" alt="hero" className="w-auto h-auto" /> */}
                         </div>
                     </div>
                     <div className='z-0 justify-start mx-auto lg:w-9/12 lg:h-auto rounded-2xl p-4 border-t border-b border-l border-r border-gray-400 bg-white'>
                         <h1 className="text-2xl ml-2 text-start font-semibold z-10 text-black">Select your industry</h1>
                         <div className='w-full h-px bg-gray-300 my-2'></div>
-                        <div className="block items-center w-full h-auto mt-3 justify-start px-5">
-                            <div className='flex justify-between'>
-                                <img src="/images/industry/Group 21649.png" alt="hero" className="w-auto h-auto pr-3" />
-                                <img src="/images/industry/Group 21672.png" alt="hero" className="w-auto h-auto" />
-                                <img src="/images/industry/Group 21671.png" alt="hero" className="w-auto h-auto" />
-                                <img src="/images/industry/Group 21669.png" alt="hero" className="w-auto h-auto" />
-                                <img src="/images/industry/Group 21666.png" alt="hero" className="w-auto h-auto" />
+                        <div className="grid grid-cols-5 space-x-5 items-center h-auto mt-3 px-5">
+                            <div className='justify-center'>
+                                <img src="/images/industry/Group 21649.png" alt="hero" className="w-auto h-14" />
+                                <img src="/images/industry/Group 21672.png" alt="hero" className="w-auto h-14" />
                             </div>
-                            <div className='flex mt-3 justify-between'>
-                                <img src="/images/industry/Group 21674.png" alt="hero" className="w-auto h-auto pr-3" />
-                                <img src="/images/industry/Group 21673.png" alt="hero" className="w-auto h-auto pr-2" />
-                                <img src="/images/industry/Group 21692.png" alt="hero" className="w-auto h-auto pr-24" />
-                                <img src="/images/industry/Group 21668.png" alt="hero" className="w-auto h-auto pr-10" />
-                                <img src="/images/industry/Group 21688.png" alt="hero" className="w-auto h-auto pr-6" />
+                            <div className='justify-center'>
+                                <img src="/images/industry/Group 21671.png" alt="hero" className="w-auto h-14" />
+                                <img src="/images/industry/Group 21669.png" alt="hero" className="w-auto h-14" />
+                            </div>
+                            <div className='justify-center'>
+                                <img src="/images/industry/Group 21666.png" alt="hero" className="w-auto h-14" />
+                                <img src="/images/industry/Group 21674.png" alt="hero" className="w-auto h-14" />
+                            </div>
+                            <div className='justify-center'>
+                                <img src="/images/industry/Group 21673.png" alt="hero" className="w-auto h-14" />
+                                <img src="/images/industry/Group 21692.png" alt="hero" className="w-auto h-14" />
+                            </div>
+                            <div className='justify-center'>
+                                <img src="/images/industry/Group 21668.png" alt="hero" className="w-auto h-14" />
+                                <img src="/images/industry/Group 21688.png" alt="hero" className="w-auto h-14" />
                             </div>
                         </div>
 
