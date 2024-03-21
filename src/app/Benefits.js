@@ -5,20 +5,20 @@ export default function Benefits() {
         <>
             <div className='mx-auto my-8'>
                 <h1 className='text-center text-white text-4xl my-8'>Benefits of using our Software</h1>
-                <div className='grid md:grid-cols-4 justify-center py-2 rounded-t-2xl my-16 gap-10 px-36'>
-                    <div className='flex items-center space-x-3'>
+                <div className='grid md:grid-cols-4 py-2 rounded-t-2xl my-16 px-36'>
+                    <div className='flex items-center space-x-3 mx-auto'>
                         <img src='/images/Check.png' className='w-10 h-10' />
                         <h1 className='text-2xl text-white'>Time Saving</h1>
                     </div>
-                    <div className='flex items-center space-x-3'>
+                    <div className='flex items-center space-x-3 mx-auto'>
                         <img src='/images/Check.png' className='w-10 h-10' />
                         <h1 className='text-2xl text-white'>Personalised</h1>
                     </div>
-                    <div className='flex items-center space-x-3'>
+                    <div className='flex items-center space-x-3 mx-auto'>
                         <img src='/images/Check.png' className='w-10 h-10' />
                         <h1 className='text-2xl text-white'>Cost Saving</h1>
                     </div>
-                    <div className='flex items-center space-x-3'>
+                    <div className='flex items-center space-x-3 mx-auto'>
                         <img src='/images/Check.png' className='w-10 h-10' />
                         <h1 className='text-2xl text-white'>Multitasking</h1>
                     </div>
