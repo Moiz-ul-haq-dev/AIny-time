@@ -1,9 +1,11 @@
 import Affiliate from "./Affiliate";
+import Benefits from "./Benefits";
 import Hero from "./Hero";
 import Integrations from "./Integrations";
 import Navbar from "./Navbar";
 import Platforms from "./Platforms";
 import Pricing from "./Pricing";
+import Steps from "./Steps";
 
 export default function Home() {
   return (
@@ -17,6 +19,8 @@ export default function Home() {
       <Platforms />
       <Pricing />
       <Affiliate />
+      <Benefits />
+      <Steps />
     </>
   );
 }
