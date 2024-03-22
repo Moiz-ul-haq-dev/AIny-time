@@ -1,5 +1,8 @@
+import Advertiser from "./Advertiser";
 import Affiliate from "./Affiliate";
 import Benefits from "./Benefits";
+import Faq from "./Faq";
+import Footer from "./Footer";
 import Hero from "./Hero";
 import Integrations from "./Integrations";
 import Navbar from "./Navbar";
@@ -21,6 +24,9 @@ export default function Home() {
       <Affiliate />
       <Benefits />
       <Steps />
+      <Advertiser />
+      <Faq />
+      <Footer />
     </>
   );
 }

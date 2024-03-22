@@ -23,11 +23,10 @@ export default function Benefits() {
                         <h1 className='text-2xl text-white'>Multitasking</h1>
                     </div>
                 </div>
-                
-                    <h1 className='w-full text-3xl text-white text-center my-2'>Become a partner of AInytime </h1>
-                    <h1 className='w-full text-3xl font-semibold text-white text-center my-2'>and start earning awards!</h1>
-                    <h1 className='w-full text-sm text-white text-center my-2'>As an AInytime ambassador, earn rewards when you bring new users to AInytime.</h1>
-                    <button className='bg-[#B7007F] text-white mx-auto flex rounded-xl px-8 py-3 my-5'>Become a Partner</button>
+                <h1 className='w-full text-3xl text-white text-center my-2'>Become a partner of AInytime </h1>
+                <h1 className='w-full text-3xl font-semibold text-white text-center my-2'>and start earning awards!</h1>
+                <h1 className='w-full text-sm text-white text-center my-2'>As an AInytime ambassador, earn rewards when you bring new users to AInytime.</h1>
+                <button className='bg-[#B7007F] text-white mx-auto flex rounded-xl px-8 py-3 my-5'>Become a Partner</button>
             </div>
         </>
     )
